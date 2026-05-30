@@ -1,4 +1,4 @@
-#HTNL II Assignment
+#HTML II Assignment
 This project contains two webpages:
 
 ## Home Page (index.html)
